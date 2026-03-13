@@ -1,7 +1,7 @@
 import { useState, useRef, useEffect, useMemo, useCallback } from "react";
 
 // ─── CONFIG ──────────────────────────────────────────────────────────────────
-const BASE = "http://127.0.0.1:8765"; // Local server for PDFs only
+const BASE = "http://127.0.0.1:8765"; // Local server for PDFs onl
 const MANUAL_JSON_URL = "https://raw.githubusercontent.com/anderslien96/lr3-workshop-manual/main/manual_extracted.json";
 
 // ─── MANUAL STRUCTURE ─────────────────────────────────────────────────────────
